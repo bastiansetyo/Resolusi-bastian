@@ -1,0 +1,9 @@
+Bastian resolusi 
+- konsisten untuk belajar backend development 
+- bulan tiga bulan kedepan harus sudah paham minimal js, java , pyton
+- konsep belajar dasar program ( procedural ,Oop ( object oriented programin), function).
+- buat project sederhana (to do list, CRUD (CREATE,READ,UPDATE,DELETE))
+- FRAMEWORK 
+- package manager 
+- buat project online shop
+- konsep API ( Rest API, Json, Aunthentication)
